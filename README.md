@@ -1,4 +1,3 @@
-```markdown
 # Discord Server Replication Script
 
 Welcome to the Discord Server Replication Script, developed by Zarfala x Makuku. This Python script allows you to replicate Discord servers, making it easier to set up similar server structures quickly.
@@ -11,23 +10,29 @@ Welcome to the Discord Server Replication Script, developed by Zarfala x Makuku.
 
 ## Getting Started
 
-To get started with the Discord Server Replication Script, follow these steps:
+### 1. Clone the Repository
 
-1. Clone the repository:
+First, clone the repository to your local machine using the following command:
 
-   ```bash
-   git clone https://github.com/zarfalaxd/Discord-Server-Replication-Script.git
-   ```
+```bash
+git clone https://github.com/zarfalaxd/Discord-Server-Replication-Script.git
+```
 
-2. Run the script with your Discord server details.
+This will download the script to your computer and allow you to run it.
 
-3. Enjoy the benefits of quickly replicating Discord servers!
+### 2. Run the Script
 
-For a live demonstration, you can also try the script on Replit: [![Run on Replit](https://replit.com/badge/github/zarfalaxd/Discord-Server-Replication-Script)](http://replit.com/@zarfaladev/Discord-server-cloner)
+Now, you can run the Discord Server Replication Script with your Discord server details.
 
-## Contributing
+### 3. Enjoy!
 
-We welcome contributions from the community. If you'd like to contribute to this project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+You can now enjoy the benefits of quickly replicating Discord servers with ease.
+
+<p>
+  <a href="http://replit.com/@zarfaladev/Discord-server-cloner">
+    <img src="https://replit.com/badge/github/zarfalaxd/Discord-Server-Replication-Script" alt="Run on Replit">
+  </a>
+</p>
 
 ## License
 
@@ -38,6 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to reach out to us:
 
 - Zarfala: [GitHub](https://github.com/zarfalaxd)
+- Makuku: [GitHub](https://github.com/makuku)
 
 Thank you for checking out the Discord Server Replication Script!
-```
