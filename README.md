@@ -43,6 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to reach out to us:
 
 - Zarfala: [GitHub](https://github.com/zarfalaxd)
-- Makuku: 
+- Makuku: [GitHub](https://github.com/makuku)
 
 Thank you for checking out the Discord Server Replication Script!
