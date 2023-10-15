@@ -34,10 +34,6 @@ You can now enjoy the benefits of quickly replicating Discord servers with ease.
   </a>
 </p>
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to us:
