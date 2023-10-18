@@ -46,7 +46,7 @@ def clearall():
 : :: : :   :   : :   :   : :   :         :   : :  : :: : :   :   : :      :   ::       :      :     :   : :   :   :::   : :  :    :   :::   : :  :   
 {Style.RESET_ALL}{Fore.RESET}""")
     print(
-        f"{Style.BRIGHT}{Fore.GREEN}New cloner in creation progress, for more information visit: {Fore.BLUE}https://discord.gg/panelextortion{Style.RESET_ALL}{Fore.RESET}"
+        f"{Style.BRIGHT}{Fore.GREEN}New cloner in creation progress, for more information visit: {Fore.BLUE}https://discord.gg/???{Style.RESET_ALL}{Fore.RESET}"
     )
 
 
