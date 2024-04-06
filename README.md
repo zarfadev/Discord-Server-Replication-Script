@@ -1,4 +1,4 @@
-# Discord Server Replication Script
+# Discord Server Replication Script 
 
 Welcome to the Discord Server Replication Script, developed by Zarfala x Makuku. This Python script allows you to replicate Discord servers, making it easier to set up similar server structures quickly.
 
